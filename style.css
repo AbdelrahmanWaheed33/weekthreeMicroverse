@@ -1,0 +1,25 @@
+.footer {
+    /* background-color: aquamarine; */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  
+    /* Set the fixed height of the footer here */
+    height: 60px;
+  }
+  
+.color-red{
+    background-color:  #f72210;;
+}
+
+
+
+.icons i {
+    font-size: 40px;
+    color: grey;
+  }
+  
+  .fab {
+    margin-left: 15px;
+  }
+  
