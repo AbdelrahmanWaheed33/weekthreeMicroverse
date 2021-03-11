@@ -1,0 +1,46 @@
+.footer {
+  /* background-color: aquamarine; */
+
+  /* position: absolute; */
+  bottom: 0;
+  width: 100%;
+
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+.color-red {
+  background-color: #f72210;
+}
+
+.icons i {
+  font-size: 40px;
+  color: grey;
+}
+
+.fab {
+  margin-left: 15px;
+}
+
+.change-font {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.form-text {
+  width: 80px;
+}
+
+.brand {
+  fill: white;
+}
+
+body {
+  margin: auto;
+  width: 80%;
+}
+
+.signicon {
+  width: 29px;
+  height: 28px;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
+}
