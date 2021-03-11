@@ -20,3 +20,11 @@
 .fab {
   margin-left: 15px;
 }
+
+.change-font {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.form-text {
+  width: 80px;
+}
