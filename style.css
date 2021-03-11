@@ -34,14 +34,6 @@
   fill: white;
 }
 
-.change-font {
-  font-family: "Roboto Condensed", sans-serif;
-}
-
-.form-text {
-  width: 80px;
-}
-
 body {
   margin: auto;
   width: 80%;
